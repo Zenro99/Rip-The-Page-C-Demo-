@@ -1,4 +1,5 @@
 ** RIP THE PAGE **
+
 Summary: This is basically a game idea about a simple "drawn" stickman who fights hyperrealistic creatures. 
 
 The lore of this game is that there were alien "hypermalgamations", (who look like actual real life objects and monsters) who were fighting in a war with the stickmans. Before there used to be a singular artifact (im still brainstorming this) used to completely change the war against the hypermalgamations, however, it seemed to dissappear after the stickmen won the war and managed to rid alien of hypermalgamations. 
